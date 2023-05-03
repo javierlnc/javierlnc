@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Javier Leon</h1>
 <h3 align="center">About Me:</h3>
 
-- I am a fullstack developer **I am passionate about frontend development because it allows me to apply my knowledge in graphic design and programming.
+- I am a fullstack developer. I am passionate about frontend development because it allows me to apply my knowledge in graphic design and programming.
+- I have worked as a fullstack developer with Angular and .net framework as well as as a Dynamics 365 developer
 
-- 🌱 I’m currently learning **React and .Net Core**
+- 📒 I’m currently learning **React and .Net Core**
 
 - 📫 How to reach me **javierlnc@icloud.com**
 
