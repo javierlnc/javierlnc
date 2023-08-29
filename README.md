@@ -4,7 +4,7 @@
 - I am a fullstack developer. I am passionate about frontend development because it allows me to apply my knowledge in graphic design and programming.
 - I have worked as a fullstack developer with Angular and .net framework as well as as a Dynamics 365 developer
 
-- 📒 I’m currently learning **React and .Net Core**
+- 📒 I’m currently learning **Angular and .Net**
 
 - 📫 How to reach me **javierlnc@icloud.com**
 
